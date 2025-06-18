@@ -1,5 +1,4 @@
 # Portal_Institucional_Demo
-https://m-alvaradox.github.io/Portal_Demo/
 
 Este proyecto fue desarrollado durante mis pasantías como parte del rediseño y mejora de la página web institucional del área de tecnología.
 
